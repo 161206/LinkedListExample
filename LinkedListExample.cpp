@@ -1,4 +1,5 @@
 // LinkedList Example : Console Application
+// 161206 Mabuza Thabiso Njabulo
 #include "stdafx.h"
 #include "MyList.h" 
 #include <iostream>
